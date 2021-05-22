@@ -1,3 +1,5 @@
+test1 にいるよおおおお
+
 # Week6 ゼミ
 
 ## WORK1 Git

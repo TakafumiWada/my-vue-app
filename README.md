@@ -22,6 +22,10 @@ test1 にいるよおおおお
 ## Work2 GitHub
 
 - git remote add origin <URL>：<URL>のリポジトリと連携
+- git push ：ローカルにコミットされいる情報をリモートに更新
+- git pull 　：pull の逆
+- git clone ：リモートのレポジトリをインストール
+- プルリクエスト
 
 aaa
 俺はマスターにいるぞおお

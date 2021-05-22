@@ -22,3 +22,4 @@
 - git remote add origin <URL>：<URL>のリポジトリと連携
 
 aaa
+俺はマスターにいるぞおお
